@@ -1,0 +1,5 @@
+Studi Kasus 2
+
+1. Fitur sewa lapangan di AYO web. Setelah mencari kota dan pilih cabang olahraga berdasarkan range harga, ketika user mengganti range harga, cabang olahraga ter-reset, sehingga user perlu memilih cabang olahraga kembali. Metode testing yang akan digunakan adalah functional test dengan jenis pengujian black box. Tujuan dari test tersebut adalah memastikan perubahan filter harga tidak menghapus pilihan cabang olahraga yang sudah dipilih.
+
+2. Fitur daftar venue baru di AYO app. Dapat ditambahkan fitur untuk otomatis terfilter berdasarkan jarak venue ke user. Metode testing yang akan digunakan adalah functional test dengan jenis pengujian black box. Tujuan dari test tersebut adalah memastikan bahwa daftar venue baru otomatis terfilter berdasarkan jarak venue ke user.
